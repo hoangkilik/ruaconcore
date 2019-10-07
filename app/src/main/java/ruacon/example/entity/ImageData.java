@@ -1,7 +1,7 @@
 package ruacon.example.entity;
 
 /**
- * Created by Nguyen Tien Hoang on 1/9/2017.
+ * Created by on 1/9/2017.
  */
 
 public class ImageData {

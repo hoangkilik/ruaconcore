@@ -9,7 +9,7 @@ import ruacon.example.R;
 import ruacon.example.TextViewClickMovement;
 
 /**
- * Created by Nguyen Tien Hoang on 2017-07-26.
+ * Created by on 2017-07-26.
  */
 
 public class TextViewMovementActivity extends AmazingBaseActivity {

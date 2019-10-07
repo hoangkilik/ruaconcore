@@ -16,7 +16,7 @@ import android.text.TextUtils;
 import java.util.HashMap;
 
 /**
- * Created by Nguyen Tien Hoang on 3/27/17.
+ * Created by on 3/27/17.
  */
 
 public class StudentsProvider extends ContentProvider {

@@ -18,7 +18,7 @@ import android.widget.ImageView;
 import ruacon.example.R;
 
 /**
- * Created by Nguyen Tien Hoang on 2017-05-25.
+ * Created by on 2017-05-25.
  */
 
 public class DownloadManagerActivity extends Activity {

@@ -6,7 +6,7 @@ import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 
 /**
- * Created by Nguyen Tien Hoang on 1/25/2017.
+ * Created by on 1/25/2017.
  */
 
 public class AutoFixHeightRelativeLayout extends RelativeLayout {

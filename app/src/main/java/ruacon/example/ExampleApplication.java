@@ -5,7 +5,7 @@ import android.app.Application;
 import com.base.util.LogUtil;
 
 /**
- * Created by Nguyen Tien Hoang on 12/13/2016.
+ * Created by on 12/13/2016.
  */
 public class ExampleApplication extends Application {
     private static ExampleApplication mInstance;

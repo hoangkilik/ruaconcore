@@ -13,7 +13,7 @@ import ruacon.example.R;
 import ruacon.example.entity.ImageData;
 
 /**
- * Created by Nguyen Tien Hoang on 12/13/2016.
+ * Created by on 12/13/2016.
  */
 
 public class ImageAdapter extends RecyclerView.Adapter<ImageAdapter.ImageViewHolder> {

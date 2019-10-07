@@ -10,7 +10,7 @@ import com.base.view.activity.AmazingBaseActivity;
 import ruacon.example.R;
 
 /**
- * Created by Nguyen Tien Hoang on 2/24/2017.
+ * Created by on 2/24/2017.
  */
 
 public class FirebaseActivity extends AmazingBaseActivity {

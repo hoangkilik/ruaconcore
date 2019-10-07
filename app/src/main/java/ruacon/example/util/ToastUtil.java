@@ -6,7 +6,7 @@ import android.widget.Toast;
 import ruacon.example.ExampleApplication;
 
 /**
- * Created by Nguyen Tien Hoang on 13/05/2016.
+ * Created by on 13/05/2016.
  * <p>
  * Show notice by toast
  */

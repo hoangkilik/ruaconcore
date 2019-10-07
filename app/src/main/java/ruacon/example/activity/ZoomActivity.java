@@ -19,7 +19,7 @@ import ruacon.example.adapter.ImageAdapter;
 import ruacon.example.entity.ImageData;
 
 /**
- * Created by Nguyen Tien Hoang on 1/6/2017.
+ * Created by on 1/6/2017.
  */
 
 public class ZoomActivity extends AmazingBaseActivity {

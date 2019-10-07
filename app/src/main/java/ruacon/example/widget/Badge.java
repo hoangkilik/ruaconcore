@@ -9,7 +9,7 @@ import com.base.view.widget.AmazingBaseCustomRelativeLayout;
 import ruacon.example.R;
 
 /**
- * Created by Nguyen Tien Hoang on 10/5/16.
+ * Created by on 10/5/16.
  * <p>
  * Like badge on iOS. Using to show number notification.
  */

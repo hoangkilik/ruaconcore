@@ -1,7 +1,7 @@
 package ruacon.example.entity;
 
 /**
- * Created by Nguyen Tien Hoang on 12/13/2016.
+ * Created by on 12/13/2016.
  */
 
 public class User {

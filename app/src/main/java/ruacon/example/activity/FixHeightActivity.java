@@ -7,7 +7,7 @@ import com.base.view.activity.AmazingBaseActivity;
 import ruacon.example.R;
 
 /**
- * Created by Nguyen Tien Hoang on 2/2/2017.
+ * Created by on 2/2/2017.
  */
 
 public class FixHeightActivity extends AmazingBaseActivity {

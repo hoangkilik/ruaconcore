@@ -21,7 +21,7 @@ import android.widget.OverScroller;
 import android.widget.Scroller;
 
 /**
- * Created by Nguyen Tien Hoang on 1/11/2017.
+ * Created by on 1/11/2017.
  */
 
 public class ZoomableLinearLayout extends LinearLayout implements BoardZoomHandler {

@@ -15,7 +15,7 @@ import android.widget.TextView;
 import ruacon.example.R;
 
 /**
- * Created by Nguyen Tien Hoang on 11/23/2016.
+ * Created by on 11/23/2016.
  * <p>
  * Show message from top to bottom.
  */

@@ -12,7 +12,7 @@ import android.view.MotionEvent;
 import android.widget.TextView;
 
 /**
- * Created by Nguyen Tien Hoang on 2017-07-26.
+ * Created by on 2017-07-26.
  * <p>
  * Handle action click on TextView
  */
