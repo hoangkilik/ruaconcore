@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Layout.MatchWidthHeight.Vertical"
+    android:background="@color/md_grey_200"
+    android:padding="@dimen/margin_standard">
+
+    <ImageView
+        style="@style/Layout.WrapWidthHeight"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/firebase_lockup_400" />
+
+    <TextView
+        android:id="@+id/tv_link_information"
+        style="@style/Text.MatchWidth.Black"
+        android:layout_marginBottom="@dimen/margin_standard"
+        android:background="@drawable/selector_bg_white"
+        android:padding="@dimen/margin_short"
+        android:text="@string/link_information" />
+
+    <TextView
+        android:id="@+id/tv_link_album"
+        style="@style/Text.MatchWidth.Black"
+        android:layout_marginBottom="@dimen/margin_standard"
+        android:background="@drawable/selector_bg_white"
+        android:padding="@dimen/margin_short"
+        android:text="@string/link_album" />
+
+    <TextView
+        android:id="@+id/tv_link_profile"
+        style="@style/Text.MatchWidth.Black"
+        android:layout_marginBottom="@dimen/margin_standard"
+        android:background="@drawable/selector_bg_white"
+        android:padding="@dimen/margin_short"
+        android:text="@string/link_profile" />
+
+    <TextView
+        android:id="@+id/tv_deep_link_information"
+        style="@style/Text.MatchWidth.Black"
+        android:layout_marginBottom="@dimen/margin_standard"
+        android:background="@drawable/selector_bg_white"
+        android:padding="@dimen/margin_short"
+        android:text="@string/deep_link_information" />
+
+    <TextView
+        android:id="@+id/tv_deep_link_album"
+        style="@style/Text.MatchWidth.Black"
+        android:layout_marginBottom="@dimen/margin_standard"
+        android:background="@drawable/selector_bg_white"
+        android:padding="@dimen/margin_short"
+        android:text="@string/deep_link_album" />
+
+    <TextView
+        android:id="@+id/tv_deep_link_profile"
+        style="@style/Text.MatchWidth.Black"
+        android:layout_marginBottom="@dimen/margin_standard"
+        android:background="@drawable/selector_bg_white"
+        android:padding="@dimen/margin_short"
+        android:text="@string/deep_link_profile" />
+</LinearLayout>

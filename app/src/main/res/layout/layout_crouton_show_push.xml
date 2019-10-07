@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Layout.MatchWidth"
+    android:background="@drawable/bg_notify_app">
+
+    <TextView
+        android:id="@+id/tv_push_message"
+        style="@style/Text.MatchWidth.White"
+        android:background="@color/primary_red"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:drawablePadding="@dimen/margin_short"
+        android:gravity="center_vertical"
+        android:padding="@dimen/margin_short"
+        android:text="@string/abc_action_bar_home_description"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/text_normal" />
+</FrameLayout>

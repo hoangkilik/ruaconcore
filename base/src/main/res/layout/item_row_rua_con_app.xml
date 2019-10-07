@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Layout.MatchWidth"
+    android:paddingStart="8dp"
+    android:paddingTop="8dp"
+    android:paddingEnd="8dp">
+
+    <LinearLayout
+        android:id="@+id/layoutName"
+        style="@style/Layout.MatchWidth.Vertical"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="64dp"
+        android:layout_toEndOf="@id/ivIconApp">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvAppName"
+            style="@style/Text.MatchWidth.Black"
+            android:layout_marginBottom="2dp"
+            android:textSize="16sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvStatus"
+            style="@style/Text.WrapWidth.Italic" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="56dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/btnInstall"
+            style="@style/Text.MatchWidth.White.Bold"
+            android:background="@color/md_green_600"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:gravity="center_horizontal"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="@string/install"
+            android:textSize="12sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/btnOpen"
+            style="@style/Text.MatchWidth.White.Bold"
+            android:background="@color/md_blue_600"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:gravity="center_horizontal"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="@string/open"
+            android:textSize="12sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/btnReceiveBonus"
+            style="@style/Text.MatchWidth.White.Bold"
+            android:background="@color/md_orange_600"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:gravity="center_horizontal"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="@string/receive"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+    <View
+        style="@style/Divider"
+        android:layout_below="@id/layoutName"
+        android:layout_marginTop="8dp" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivIconApp"
+        android:layout_width="48dp"
+        android:layout_height="48dp" />
+</RelativeLayout>

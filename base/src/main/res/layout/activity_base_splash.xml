@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/Layout.MatchWidthHeight">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/img_balloon"
+        style="@style/Layout.WrapWidthHeight"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/balloon" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/img_rua_con_logo"
+        style="@style/Layout.WrapWidthHeight"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/logo_rua_con_studio" />
+</RelativeLayout>

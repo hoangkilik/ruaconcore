@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00c000</color>
+    <color name="colorPrimaryDark">#009900</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Primary -->
+    <color name="primary_gray">#666666</color>
+    <color name="primary_light_blue">#b6e0ff</color>
+    <color name="primary_blue">#007aff</color>
+    <color name="primary_red">#ff5a54</color>
+    <color name="primary_green">#00c000</color>
+    <color name="primary_green_dark">#00a500</color>
+    <color name="primary_dark_gray">#202739</color>
+    <!--Primary -->
+
+    <color name="red">#ff5a54</color>
+    <color name="red_dark">#c74540</color>
+    <color name="gray_text">#999999</color>
+    <color name="gray_dark_text">#666666</color>
+    <color name="gray_transparent">#88090000</color>
+    <color name="gray_transparent_dark">#bb090000</color>
+    <color name="blue_alpha">#aa0D47A1</color>
+    <color name="gray">#b3b3b3</color>
+    <color name="bg_step">#ecedef</color>
+    <color name="bg_push_detail">#f0fff0</color>
+    <color name="bg_gray">#ecedef</color>
+    <color name="black_transparent">#88000000</color>
+
+    <!--Tag-->
+    <color name="tag_color">#347dec</color>
+    <color name="tag_color_pressed">#174c9d</color>
+    <!--Tag-->
+
+    <!-- Toolbar -->
+    <color name="toolbar_bg">#00bf00</color>
+    <!-- Toolbar -->
+
+    <!-- BoardID Login -->
+    <color name="board_login_bg">#00bf00</color>
+    <color name="board_login_title_bg">#f8fff8</color>
+    <color name="board_login_edt_bg">#f2f2f2</color>
+    <color name="board_login_text_notice">#ff0000</color>
+    <color name="board_login_text_forgot">#00bf00</color>
+    <color name="board_login_text_start">#00bf00</color>
+
+    <color name="bg_introduce_register">#f8fff8</color>
+    <color name="bg_edit_text_register">#f2f2f2</color>
+    <!-- BoardID Login -->
+
+    <!-- Create cover -->
+    <color name="bg_tv_sel">#B300B050</color>
+    <color name="border_tv">#7F7F7F</color>
+    <color name="bg_item_cover_sel">#b7b7b7</color>
+    <!-- Create cover -->
+
+    <!-- Error Register -->
+    <color name="bg_error_register">#FFFFFF</color>
+    <color name="text_error_register">#ff0000</color>
+    <color name="text_error_register_2">#B2ff0000</color>
+    <!-- Error Register -->
+
+    <!--Tab bar-->
+    <color name="bg_tab_bar">#202739</color>
+    <!--Tab bar-->
+
+    <!--Edit board-->
+    <color name="bg_edit_board">#202739</color>
+    <!--Edit board-->
+
+    <!--Normal color-->
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="red_500">#F44336</color>
+    <!--Normal color-->
+
+    <!-- Sticker -->
+    <color name="sticker_border">#666666</color>
+    <!-- Sticker -->
+
+    <!-- Edit Board -->
+    <color name="bg_style_show">#202739</color>
+    <color name="bg_btn_add">#404551</color>
+    <color name="bg_edit_text">#404551</color>
+    <color name="bg_ic_text">#404551</color>
+    <color name="bg_ic_text_sel">#20242b</color>
+    <color name="bg_layout_image_preview">#99000000</color>
+    <color name="bg_popup_edit_text">#80FFFFFF</color>
+    <!-- Edit Board -->
+
+    <!--Text Color Selector-->
+    <color name="text_red">#fa0200</color>
+    <color name="text_blue">#0254fe</color>
+    <color name="text_green">#00c100</color>
+    <color name="text_yellow">#feed21</color>
+    <!--Text Color Selector-->
+
+    <!--Indicator Seek Bar-->
+    <color name="bg_indicator_seek_bar">#404551</color>
+    <!--Indicator Seek Bar-->
+
+    <!--List Board-->
+    <color name="bg_author">#202739</color>
+    <color name="text_sort_title">#8c6239</color>
+    <color name="text_gray">#666666</color>
+    <color name="bg_filter_track">#808080</color>
+    <color name="stroke_filter_track">#666666</color>
+    <!--List Board-->
+
+    <!--View Board-->
+    <color name="bg_view_board">#e64d5261</color>
+    <color name="bg_status_bar">#4d5261</color>
+    <color name="bg_page_right">#efefef</color>
+    <!--View Board-->
+
+    <!--Blue-->
+    <color name="blue">#2e82e4</color>
+    <color name="blue_dark">#0D47A1</color>
+    <!--Blue-->
+
+    <!--SNS share board dialog-->
+    <color name="share_board_dialog_url_bg">#e6e6e6</color>
+    <color name="share_board_dialog_url_stroke">#b3b3b3</color>
+    <!--SNS share board dialog-->
+
+    <!--My page Fragment-->
+    <color name="green_light">#66d966</color>
+    <color name="text_sort_title_my_page">#00c000</color>
+    <color name="background_other_item">#ecedef</color>
+    <color name="update_red">#ff5a53</color>
+    <color name="update_blue">#347ceb</color>
+    <color name="update_gray">#999999</color>
+    <!--My page Fragment-->
+
+    <!--Switch Colors-->
+    <color name="disable_for_background_grey">#42221f1f</color>
+    <color name="disable_thumb_grey">#1c000000</color>
+    <!--Switch Colors-->
+
+    <!--Add Comment-->
+    <color name="bg_add_comment">#ecedef</color>
+    <color name="bg_avatar">#e6e6e6</color>
+    <!--Add Comment-->
+
+    <color name="bg_moving_arrow">#20242b</color>
+
+    <!--Open Status-->
+    <color name="open_status_blue">#4e97F5</color>
+    <color name="open_status_gray">#D0D0D0</color>
+    <!--Open Status-->
+
+    <!--Message-->
+    <color name="bg_message">#ecedef</color>
+    <color name="bg_message_selected">#d9dada</color>
+    <color name="message_activity_background">#EBECEE</color>
+    <color name="bg_checkbox_delete_message">#e6e6e6</color>
+    <color name="message_list_item_red_text_color">#df6d68</color>
+    <color name="message_list_item_date_time_color">#4c7ecb</color>
+    <!--Message-->
+
+    <!--Edit Folder-->
+    <color name="bg_image_used">#66000000</color>
+    <!--Edit Folder-->
+
+    <!--Board Ranking-->
+    <color name="bg_board_ranking">#ffd671</color>
+    <color name="bg_board_ranking_dark">#dcb861</color>
+    <!--Board Ranking-->
+
+    <!--Buy Deco-->
+    <color name="bg_color_buy_deco_list_item">#ecedef</color>
+    <color name="normal_list_color">#ecedef</color>
+    <!--Buy Deco-->
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Example</string>
+
+    <string name="link_information">https://p5g3v.app.goo.gl/?link=https://rxjd9k047gew.bo-ard.com/information/1/&amp;apn=com.board.yamawa.app</string>
+    <string name="link_album">https://p5g3v.app.goo.gl/?link=https://rxjd9k047gew.bo-ard.com/album/detail/6b4d6d2a6da17f9d573c2bb58dfb56db/&amp;apn=com.board.yamawa.app</string>
+    <string name="link_profile">https://p5g3v.app.goo.gl/?link=https://rxjd9k047gew.bo-ard.com/profile/5269/&amp;apn=com.board.yamawa.app</string>
+    <string name="deep_link_information">http://rxjd9k047gew.bo-ard.com/information/1/</string>
+    <string name="deep_link_album">http://rxjd9k047gew.bo-ard.com/album/detail/6b4d6d2a6da17f9d573c2bb58dfb56db/</string>
+    <string name="deep_link_profile">http://rxjd9k047gew.bo-ard.com/profile/5269/</string>
+</resources>

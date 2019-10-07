@@ -1,0 +1,27 @@
+<resources>
+    <string name="no_item">No item.</string>
+
+    <string name="send_feedback">Send feedback</string>
+    <string name="email_feedback">mailto:ruaconstudio@gmail.com</string>
+    <string name="subject_feedback">Feedback %1$s App</string>
+    <string name="text_feedback">I have some feedback for your app.\n</string>
+
+    <string name="share_app">Share app</string>
+    <string name="message_share">Let play the interesting game: https://play.google.com/store/apps/details?id=%1$s</string>
+    <string name="about_us">About us</string>
+    <string name="privacy_and_licence">Privacy and license</string>
+    <string name="about_us_content">Rùa Con Studio always make the best applications for you. You can see all our app at here: <a href="https://play.google.com/store/apps/developer?id=R%C3%B9a+Con+Studio">Rùa Con Studio</a></string>
+    <string name="privacy_content">All images used in the application from free sources on the internet. We are not the copyright owner of the content published in this mobile app. If you see any image in this application have license, please feedback for us and we will remove it.</string>
+
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id_test">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="native_ad_unit_id_test">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="rewarded_ad_unit_id_test">ca-app-pub-3940256099942544/5224354917</string>
+
+    <string name="receive">Receive</string>
+    <string name="open">Open</string>
+    <string name="install">Install</string>
+    <string name="message_received_bonus_this_app">You got bonus from this app. Let\'s enjoy it!</string>
+    <string name="message_not_received_bonus_this_app">You have not received a reward from this app. Let\'s install now!</string>
+    <string name="message_not_received_bonus_this_app_but_installed">You have not received a reward from this app. Let\'s receive bonus now!</string>
+</resources>

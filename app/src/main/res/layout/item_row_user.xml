@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    style="@style/Layout.MatchWidth"
+    android:layout_marginBottom="@dimen/margin_extra_short"
+    android:layout_marginLeft="@dimen/margin_short"
+    android:layout_marginRight="@dimen/margin_short"
+    android:layout_marginTop="@dimen/margin_extra_short"
+    card_view:cardCornerRadius="@dimen/margin_extra_short">
+
+    <LinearLayout
+        style="@style/Layout.MatchWidth.Vertical"
+        android:background="?android:selectableItemBackground"
+        android:padding="@dimen/margin_extra_short">
+
+        <TextView
+            android:id="@+id/tv_name"
+            style="@style/Layout.MatchWidth"
+            android:layout_marginBottom="@dimen/margin_extra_short"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_normal" />
+
+        <TextView
+            android:id="@+id/tv_email"
+            style="@style/Layout.MatchWidth"
+            android:textSize="@dimen/text_extra_small"
+            android:textStyle="italic" />
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

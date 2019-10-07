@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Layout.MatchWidthHeight"
+    tools:context=".activity.ListItemActivity">
+
+    <com.base.view.widget.AmazingRecyclerView
+        android:id="@+id/recycler_view"
+        style="@style/Layout.MatchWidthHeight"
+        app:is_load_more="true"
+        app:number_columns="2" />
+
+</RelativeLayout>

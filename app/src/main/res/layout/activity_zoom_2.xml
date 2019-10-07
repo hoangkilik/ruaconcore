@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ruacon.example.widget.zoom.ZoomableScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Layout.MatchWidthHeight">
+
+    <LinearLayout style="@style/Layout.MatchWidthHeight.Vertical">
+
+        <ImageView
+            style="@style/Layout.MatchWidth"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:src="@drawable/pic_1" />
+
+        <ImageView
+            style="@style/Layout.MatchWidth"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:src="@drawable/pic_2" />
+
+        <ImageView
+            style="@style/Layout.MatchWidth"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:src="@drawable/pic_3" />
+
+        <ImageView
+            style="@style/Layout.MatchWidth"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:src="@drawable/pic_4" />
+
+        <ImageView
+            style="@style/Layout.MatchWidth"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:src="@drawable/pic_5" />
+
+        <ImageView
+            style="@style/Layout.MatchWidth"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:src="@drawable/pic_6" />
+
+        <ImageView
+            style="@style/Layout.MatchWidth"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:src="@drawable/pic_7" />
+
+        <ImageView
+            style="@style/Layout.MatchWidth"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:src="@drawable/pic_8" />
+    </LinearLayout>
+</ruacon.example.widget.zoom.ZoomableScrollView>

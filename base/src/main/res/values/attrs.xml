@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AmazingRecyclerView">
+        <attr name="text_empty_list" format="string" />
+        <attr name="number_columns" format="integer" />
+        <attr name="is_load_more" format="boolean" />
+        <attr name="is_exist_header" format="boolean" />
+    </declare-styleable>
+</resources>
