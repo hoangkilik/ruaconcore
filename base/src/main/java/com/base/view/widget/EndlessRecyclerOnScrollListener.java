@@ -5,7 +5,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 /**
- * Created by Nguyen Tien Hoang on 11/2/2016.
+ * Created by on 11/2/2016.
  * <p>
  * Listener the view scroll to bottom.
  */

@@ -12,7 +12,7 @@ import ruacon.api.RuaConApi
 import ruacon.entity.RuaConApp
 
 /**
- * Created by Nguyen Tien HOANG on 2018-12-20.
+ * Created by on 2018-12-20.
  */
 class RuaConAppsDialog : DialogFragment() {
 

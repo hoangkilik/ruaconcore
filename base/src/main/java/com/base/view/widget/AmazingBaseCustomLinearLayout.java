@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.widget.LinearLayout;
 
 /**
- * Created by Nguyen Tien Hoang on 13/07/2016.
+ * Created by on 13/07/2016.
  * Base for all custom layout, auto add click sound for all clickable view
  */
 public abstract class AmazingBaseCustomLinearLayout extends LinearLayout {

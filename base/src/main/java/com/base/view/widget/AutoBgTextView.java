@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import androidx.appcompat.widget.AppCompatTextView;
 
 /**
- * Created by Nguyen Tien Hoang on 10/24/17.
+ * Created by on 10/24/17.
  */
 
 public class AutoBgTextView extends AppCompatTextView {

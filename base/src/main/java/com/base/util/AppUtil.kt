@@ -8,7 +8,7 @@ import android.net.Uri
 
 
 /**
- * Created by Nguyen Tien Hoang on 17/05/2016.
+ * Created by on 17/05/2016.
  */
 object AppUtil {
     private const val INTENT_TYPE_TEXT = "text/plain"

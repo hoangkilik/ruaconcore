@@ -8,7 +8,7 @@ import android.text.TextUtils;
 import java.lang.reflect.Constructor;
 
 /**
- * Created by Nguyen Tien Hoang on 10/15/2015.
+ * Created by on 10/15/2015.
  */
 public class SharedPreferencesUtil {
 

@@ -7,7 +7,7 @@ import android.graphics.drawable.Drawable;
 import android.graphics.drawable.LayerDrawable;
 
 /**
- * Created by Nguyen Tien Hoang on 2/17/2017.
+ * Created by on 2/17/2017.
  * <p>
  * The stateful LayerDrawable used for press layout.
  */

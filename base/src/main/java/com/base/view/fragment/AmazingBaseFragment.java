@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import com.base.util.LogUtil;
 
 /**
- * Created by Nguyen Tien Hoang on 30/12/2015.
+ * Created by on 30/12/2015.
  */
 public abstract class AmazingBaseFragment extends Fragment {
 

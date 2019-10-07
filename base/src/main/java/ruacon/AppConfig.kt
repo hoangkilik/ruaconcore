@@ -5,7 +5,7 @@ import android.content.pm.ActivityInfo
 import android.graphics.Point
 
 /**
- * Created by Nguyen Tien HOANG on 2018-01-25.
+ * Created by on 2018-01-25.
  */
 object AppConfig {
     var screenWidth: Int = 0

@@ -4,13 +4,13 @@
     style="@style/Layout.MatchWidthHeight">
 
     <androidx.appcompat.widget.AppCompatImageView
-        android:id="@+id/img_balloon"
+        android:id="@+id/ivBalloon"
         style="@style/Layout.WrapWidthHeight"
         android:layout_centerHorizontal="true"
         app:srcCompat="@drawable/balloon" />
 
     <androidx.appcompat.widget.AppCompatImageView
-        android:id="@+id/img_rua_con_logo"
+        android:id="@+id/ivRuaConLogo"
         style="@style/Layout.WrapWidthHeight"
         android:layout_centerHorizontal="true"
         app:srcCompat="@drawable/logo_rua_con_studio" />

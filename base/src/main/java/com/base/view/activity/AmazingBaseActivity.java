@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.base.R;
 
 /**
- * Created by Nguyen Tien Hoang on 30/12/2015.
+ * Created by on 30/12/2015.
  * <p>
  * Design skeleton for base activity
  */

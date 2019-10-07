@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import android.view.LayoutInflater;
 
 /**
- * Created by Nguyen Tien Hoang on 13/07/2016.
+ * Created by on 13/07/2016.
  */
 public abstract class AmazingBaseCustomRefreshLayout extends SwipeRefreshLayout {
 

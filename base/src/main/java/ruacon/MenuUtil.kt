@@ -11,7 +11,7 @@ import ruacon.constant.MenuAction
 
 
 /**
- * Created by Nguyen Tien Hoang on 2018-04-27.
+ * Created by on 2018-04-27.
  */
 object MenuUtil {
 

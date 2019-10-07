@@ -5,7 +5,7 @@ import android.util.Patterns;
 import java.util.regex.Pattern;
 
 /**
- * Created by Nguyen Tien Hoang on 04/01/2016.
+ * Created by on 04/01/2016.
  * <p>
  * Utility for string
  */

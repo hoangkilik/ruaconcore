@@ -3,7 +3,7 @@ package com.base.util;
 import android.util.Log;
 
 /**
- * Created by Nguyen Tien Hoang on 04/01/2016.
+ * Created by on 04/01/2016.
  * <p>
  * Manage print log
  */

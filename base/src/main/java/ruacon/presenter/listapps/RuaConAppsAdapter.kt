@@ -11,7 +11,7 @@ import ruacon.entity.RuaConApp
 import ruacon.util.RuaConUtil
 
 /**
- * Created by Nguyen Tien HOANG on 2018-12-20.
+ * Created by on 2018-12-20.
  */
 class RuaConAppsAdapter : BaseAdapter<RuaConApp>() {
 

@@ -8,16 +8,15 @@ import android.view.animation.Animation
 import android.view.animation.TranslateAnimation
 import androidx.appcompat.app.AppCompatActivity
 import com.base.R
+import kotlinx.android.synthetic.main.activity_base_splash.*
 import ruacon.AppConfig
 
 /**
- * Created by Nguyen Tien Hoang on 2018-01-25.
+ * Created by on 2018-01-25.
  */
 
 abstract class BaseSplashActivity : AppCompatActivity() {
 
-    private var mImgLogo: View? = null
-    private var mImgBalloon: View? = null
     private var mHeightLogo: Int = 0
     private var mHeightBalloon: Int = 0
 
@@ -36,24 +35,19 @@ abstract class BaseSplashActivity : AppCompatActivity() {
     }
 
     private fun hideActionBar() {
-        if (supportActionBar != null) {
-            supportActionBar!!.hide()
-        }
+        supportActionBar?.hide()
     }
 
     private fun initViews() {
-        mImgLogo = findViewById(R.id.img_rua_con_logo)
-        mImgBalloon = findViewById(R.id.img_balloon)
-
-        mImgLogo!!.post {
-            mHeightLogo = mImgLogo!!.height
+        ivRuaConLogo.post {
+            mHeightLogo = ivRuaConLogo.height
             if (mHeightBalloon != 0) {
                 startAnimation()
             }
         }
 
-        mImgBalloon!!.post {
-            mHeightBalloon = mImgBalloon!!.height
+        ivBalloon?.post {
+            mHeightBalloon = ivBalloon.height
             if (mHeightLogo != 0) {
                 startAnimation()
             }
@@ -76,7 +70,7 @@ abstract class BaseSplashActivity : AppCompatActivity() {
 
             override fun onAnimationRepeat(animation: Animation) {}
         })
-        mImgLogo!!.startAnimation(animationLogo)
+        ivRuaConLogo.startAnimation(animationLogo)
 
         val longSize = if (AppConfig.screenHeight > AppConfig.screenWidth) AppConfig.screenHeight else AppConfig.screenWidth
         val animationBalloon = TranslateAnimation(0f, 0f, AppConfig.screenHeight.toFloat(), (-longSize / 2).toFloat())
@@ -86,12 +80,12 @@ abstract class BaseSplashActivity : AppCompatActivity() {
             override fun onAnimationStart(animation: Animation) {}
 
             override fun onAnimationEnd(animation: Animation) {
-                mImgBalloon!!.visibility = View.GONE
+                ivBalloon.visibility = View.GONE
             }
 
             override fun onAnimationRepeat(animation: Animation) {}
         })
-        mImgBalloon!!.startAnimation(animationBalloon)
+        ivBalloon.startAnimation(animationBalloon)
     }
 
     private fun playSound() {

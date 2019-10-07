@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import androidx.appcompat.widget.AppCompatButton;
 
 /**
- * Created by Nguyen Tien Hoang on 10/24/17.
+ * Created by on 10/24/17.
  */
 
 public class AutoBgButton extends AppCompatButton {
